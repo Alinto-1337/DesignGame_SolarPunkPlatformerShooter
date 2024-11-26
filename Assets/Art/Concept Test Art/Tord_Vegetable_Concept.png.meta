@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tord_Vegetable_Concept_0: 3529243148960400496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
